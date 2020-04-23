@@ -24,7 +24,7 @@ public class DemoActivities2 extends AppCompatActivity {
         TextView tv1 = findViewById(R.id.textView1);
 
         // display the name and age on TextView
-        tv1.setText("You are " + info[0] + "age " + info[1]);
+        tv1.setText("You are " + info[0] + " age " + info[1]);
 
         // done
     }
